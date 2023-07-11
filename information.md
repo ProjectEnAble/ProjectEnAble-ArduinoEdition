@@ -2,6 +2,8 @@
 
 Here is some extra information about the code contained in v3.0.py. This is information such as [Micro:Bit](https://microbit.org) serial data code, and other related code. 
 
+Please note: this is mainly for the Raspberry Pi edition, but may be included with the Arduino Edition
+
 ## Micro:Bit
 ### Serial Data Codes
 B'1' = SHAKE
@@ -48,7 +50,7 @@ CS: 21
 
 ## How to Change from Prostheic Hand, to some other Prosthetic Device
 ### Step 1
-For those of you who are creating a prostheic deivce with the software based off Project: EnAble, this is how you would do this. You will want to make a fork of Project: EnAble off of the [GitHub Repository](http://github.com/projectenable/Project-Enable). 
+For those of you who are creating a prostheic deivce with the software based off Project: EnAble, this is how you would do this. You will want to make a fork of Project: EnAble off of the [GitHub Repository](http://github.com/projectenable/ProjectEnAble-RaspEdition). 
 
 ### Step 2
 You will want to then ONLY ALTER v3.0.py. You will only alter information after the comment that says, "START OF CODE (CAN EDIT AS YOU WISH)". Because we use a Micro:Bit as our main sensor for the Raspberry Pi version of the project, we will be altering the functions based off the code. 
@@ -145,11 +147,11 @@ You must also state somewhere in your code, "Project: EnAble is under Copyright 
 If you are wanting to reporduce the prosthetic hand that I have created, then all the files needed are included. The 3D Printing files are including in the folder "v3.0 3D Files for Prosthetic Hand". All you will need is a License Key (email enable@codingtrickyt.com). 
 
 ## Other Information Regarding Project: EnAble
-[GitHub Organization Link](http://github.com/projectenable) **edit:Sites will be changing soon** 
+[GitHub Organization Link](http://github.com/projectenable) 
 
-[GitHub Repository Link](http://github.com/projectenable/Project-Enable)
+[GitHub Repository Link](http://github.com/projectenable/ProjectEnAble-RaspEdition)
 
-[Project: EnAble Website](http://enable.codingtricksyt.com)
+[Project: EnAble Website](http:/projectenable.org)
 
 Contact Email: enable@codingtricksyt.com
 
@@ -157,6 +159,6 @@ Contact Email: enable@codingtricksyt.com
 
 [Twitter](http://twitter.com/proj_enable)
 
-[License, Code of Conduct, and Contributing](http://github.com/projectenable/Project-Enable)
+[License, Code of Conduct, and Contributing](http://github.com/projectenable/ProjectEnAble-RaspEdition)
 
-[Donate](http://enable.codingtricksyt.com)
+[Donate](http://github.com/projectenable)
