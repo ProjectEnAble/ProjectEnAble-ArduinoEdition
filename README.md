@@ -3,8 +3,9 @@ Copyright © 2023 Jeron Osguthorpe
 
 ## Current Versions
 
-### Current Final Release: v3.0.0 
-### Current Beta Release: v3.0.03 - BETA 
+### Current Reccomended Release: v3.1.0-beta
+### Current Final Release: v3.0.0
+### Current Beta Release: v3.1.0-beta
 
 Please check the "Security" file for more informations
 
