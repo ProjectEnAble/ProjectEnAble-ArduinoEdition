@@ -1,66 +1,25 @@
 # Project: EnAble
 Copyright © 2023 Jeron Osguthorpe
+[projectenable.org](https://projectenable.org)
 
-## Current Versions
-
-### Current Reccomended Release: v3.1.0-beta
-### Current Final Release: v3.0.0
-### Current Beta Release: v3.1.0-beta
-
-Please check the "Security" file for more informations
-
-| Version | Supported          | Beta | Alpha |
+## Current Recommended Version - v3.1.0a - Beta
+### Version History
+|Version | Supported          | Beta | Alpha |
 | ------- | ------------------ | ---- | ----- |
 | 3.1.0a - Beta | :white_check_mark: | :white_check_mark: | :x: |
 
-
-## Links to Sites
- 
-[Twitter](https://twitter.com/proj_enable)
-
-[CodingTricks YouTube Channel](https://youtube.com/codingtricks)
-
-## Donations 
-
-### Current Donations Amount
-
-$300+
-
-### Other 
-
-Any and all donations are greatly appreciated! All donations will go towards Project: EnAble and if you would like a detailed list of what your donations will be used on, you can email me at jeronosg@outlook.com and I can send you that list. 
-
-Donation Links (also on GitHub Repository): 
-
-[Venmo](https://account.venmo.com/u/Jeron-Osguthorpe)
-
-[CashApp](https://cash.app/$JeronOsguthorpe)
-
-[PayPal](https://www.paypal.com/donate/?hosted_button_id=R6QT5XCLWMW98)
-
-[GoFundMe](https://gofund.me/83201568)
-
-Once again, thank you for your donation! 
-
-
-# Information
-
-Project: EnAble aims to create a prosthetic system and design to help create more affordable, open source prosthetics. By Engineering new ways to create prosthetics, Project: EnAble can help make the world a more accessible place. Due to the project being open source, this does mean it is free, however, you must follow license rules to access the source code. Source code cannot be altered in any way without written permission from Jeron Osguthorpe. Project: EnAble is under license. See License information on Git Page. 
-
-Copyright © 2023 Jeron Osguthorpe
+# About
+Project: EnAble is an open source prosthetic system and design created by Jeron Osguthorpe with hopes to help make the world more accessible. Project: EnAble uses a series of sensors, motors and micro computers (either RPi or Arduino) in order to control customizable
+prosthetic devices.
 
 # License and Copyright Information
+Project: EnAble is under Copyright © 2023 by Jeron Osguthorpe. It is under the LGPL-2.1 License.
 
-Overall,the license and copyright information state that: 
-
-- The Project is Open Source, however: 
-- You cannot alter files after download 
-- Must keep copyright information and notices to be easily seen in the library 
-- Must keep the license with the files 
-- Must keep the security notice, warranty notice (included with license), and the Policies notice (included with licence)
-- In order to change any files in any way, you must have permsisson from Jeron Osguthorpe as a collaborator 
-
-Thank you! If you have anything you would like cleared, either check the license on this library, or email Jeron Osguthorpe at jeronosg@outlook.com. You can also check the discussions tab or the issues tab.
+The Project is Open Source, however:
+- You may alter files after download, but we are not held responsible for any changes or damages
+- You must keep the licence and copyright files within the library
+- Security files are a must and cannot be removed
+- You are not allowed to make any system wide changes without authorization. You can make local changes but not system wide changes without approval.
 
 # CHANGE LOGS
 
@@ -121,7 +80,7 @@ As of June 19th of 2022, Project: EnAble v3.0 has started production. See the to
 
 7.24.2022
 
-Been a while since we have updated the chagne logs. As of right now, we are in the 3D design and printing of the development of Project: EnAble v3.0. Soon hereafter we will have the Gauntlet finished. After that, we will work on the development of the palm, and then the fingers. The Philanges being used this year are going to be an altered design of the philagnes used in the Cyborg Arm by Creighton University, also the philagnes used in v2.0 of Project: EnAble. Hopefully, we will be able to get the Raspberry Pi version of everything up and printed. The only deifference between the Raspberry Pi version and the Arduino version in terms of the phiscial 3D Printed hand, is the Gauntlet. The Gauntlet will be accomondated for the Arduino, however, should not look much different. Thanks for all your support, it is greatly appreciated. Check out our twitter account at http://twitter.com/proj_enable and at our Website at http://projectenable.org. To give suggestions, ask questions or anything else, please check our discussions page or email me at jeronosg@outlook.com. If you would like to donate, please see our donations links. If you would like to see how far we are in development, please see our projects page. Again, thanks, and we will keep you updated. 
+Been a while since we have updated the chagne logs. As of right now, we are in the 3D design and printing of the development of Project: EnAble v3.0. Soon hereafter we will have the Gauntlet finished. After that, we will work on the development of the palm, and then the fingers. The Philanges being used this year are going to be an altered design of the philagnes used in the Cyborg Arm by Creighton University, also the philagnes used in v2.0 of Project: EnAble. Hopefully, we will be able to get the Raspberry Pi version of everything up and printed. The only deifference between the Raspberry Pi version and the Arduino version in terms of the phiscial 3D Printed hand, is the Gauntlet. The Gauntlet will be accomondated for the Arduino, however, should not look much different. Thanks for all your support, it is greatly appreciated. Check out our twitter account at http://twitter.com/proj_enable and at our Webstie at http://projectenable.org. To give suggestions, ask questions or anything else, please check our discussions page or email me at jeronosg@outlook.com. If you would like to donate, please see our donations links. If you would like to see how far we are in development, please see our projects page. Again, thanks, and we will keep you updated. 
 
 8.15.2022
 
@@ -160,7 +119,7 @@ Bluetooth Support is now added! Now you can use the official Android Project: En
 Update on everything. We will be presenting at a tech conference in Chicago in late June. For this tech conference we will be presenting the Arduino v3.1.0 - Beta version of the project. As of today, this version has not been officially released, but it will be in the upcoming weeks. 
 
 7.10.2023
-Update again. Chicago was a success! Thank you to all those who have been supporting me and the project thorugh this journey! I am happy to announcethat we will be changing the repositories for the project up a bit. Releasing later today will be two different repositories, one of which will be the Raspberry Pi repository (releasing with v3.1.0 - Beta), and the other will be the Arduino repository (releasing with v3.1.0a - Beta). As with these versions, the official Android App for the Raspberry Pi version can be found at the official website, http://enableapp.codingtricksyt.com. Thanks again for all your support. 
+Update again. Chicago was a success! Thank you to all those who have been supporting me and the project thorugh this journey! I am happy to announcethat we will be changing the repositories for the project up a bit. Releasing later today will be two different repositories, one of which will be the Raspberry Pi repository (releasing with v3.1.0 - Beta), and the other will be the Arduino repository (releasing with v3.1.0a - Beta). As with these versions, the official Android App for the Raspberry Pi version can be found at the official website, http://enableapp.codingtricksyt.com. **edit: site will be changing soon**. Thanks again for all your support. 
 
 7.10.2023 - B
 As another announcemnt, Project: EnAble v2.0 - Final is no longer supported and will be disapearing along with the old repository. 
