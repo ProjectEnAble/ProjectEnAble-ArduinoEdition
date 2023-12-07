@@ -4,6 +4,7 @@ Copyright © 2023 Jeron Osguthorpe
 
 ## Current Recommended Version - v3.1.0a - Beta
 ### Version History
+
 |Version | Supported          | Beta | Alpha |
 | ------- | ------------------ | ---- | ----- |
 | 3.1.0a - Beta | :white_check_mark: | :white_check_mark: | :x: |
