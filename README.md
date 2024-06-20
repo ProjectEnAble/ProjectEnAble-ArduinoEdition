@@ -1,4 +1,4 @@
-# Project: EnAble RPi Edition
+# Project: EnAble Arduino Edition
 ![GitHub License](https://img.shields.io/github/license/ProjectEnAble/ProjectEnAble-ArduinoEdition) ![GitHub Release](https://img.shields.io/github/v/release/ProjectEnAble/ProjectEnAble-ArduinoEdition) ![GitHub Discussions](https://img.shields.io/github/discussions/ProjectEnAble/ProjectEnAble-ArduinoEdition) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/proj_enable)
 
 # Releases 
